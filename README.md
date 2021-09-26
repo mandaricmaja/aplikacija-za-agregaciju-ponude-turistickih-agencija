@@ -1,5 +1,5 @@
 
-<h2><b>RAZVOJ APLIKACIJE E-ZAPISNIK ZA PRAĆENJE KOŠARKAŠKE UTAKMICE</b></h2>
+<h2><b>Izrada aplikacije za agregaciju ponude turističkih agencija</b></h2>
 
 Diplomski rad
 
