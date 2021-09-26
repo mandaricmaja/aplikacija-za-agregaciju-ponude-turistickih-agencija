@@ -1,5 +1,5 @@
 
-<br><h2><b>Izrada aplikacije za agregaciju ponude turističkih agencija</b></h2>
+<h2><b>Izrada aplikacije za agregaciju ponude turističkih agencija<br></b></h2>
 
 Diplomski rad
 
