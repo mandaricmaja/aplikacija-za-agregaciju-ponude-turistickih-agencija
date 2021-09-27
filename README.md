@@ -29,7 +29,7 @@ Putnik
 - dodavanje recenzija
 
 Turistički agent
-- objavljivanje turističke agencije
+- objavljivanje turističke ponude
 - izmjena/arhiviranje turističke ponude
 - pregledavanje rezervacija
 - pregledavanje recenzija
